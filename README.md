@@ -15,12 +15,11 @@ A React Native application built with Expo Router that implements secure authent
 - [Trade-offs & Considerations](#trade-offs--considerations)
 
 ## Screenshots & Recording
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-11-18 at 10 48 43" src="https://github.com/user-attachments/assets/7f68d97f-f845-470b-82e9-99589db730f4" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-11-18 at 10 48 37" src="https://github.com/user-attachments/assets/f4f0e33f-bbfc-4ce0-9bc7-b8d2986bb243" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-11-18 at 10 47 44" src="https://github.com/user-attachments/assets/18052110-807b-4012-8b0d-316699f6c8d4" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-11-18 at 10 47 30" src="https://github.com/user-attachments/assets/308147a6-4e24-4eec-8998-9a29093b05f3" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-11-18 at 10 47 27" src="https://github.com/user-attachments/assets/4f15769a-4867-4050-b512-713f6081799f" />
-
+<img width="406" height="1322" alt="Simulator Screenshot - iPhone 16 Pro - 2025-11-18 at 10 47 27" src="https://github.com/user-attachments/assets/4f15769a-4867-4050-b512-713f6081799f" />
+<img width="406" height="1322" alt="Simulator Screenshot - iPhone 16 Pro - 2025-11-18 at 10 47 30" src="https://github.com/user-attachments/assets/308147a6-4e24-4eec-8998-9a29093b05f3" />
+<img width="406" height="1322" alt="Simulator Screenshot - iPhone 16 Pro - 2025-11-18 at 10 47 44" src="https://github.com/user-attachments/assets/18052110-807b-4012-8b0d-316699f6c8d4" />
+<img width="406" height="1322" alt="Simulator Screenshot - iPhone 16 Pro - 2025-11-18 at 10 48 37" src="https://github.com/user-attachments/assets/f4f0e33f-bbfc-4ce0-9bc7-b8d2986bb243" />
+<img width="406" height="1322" alt="Simulator Screenshot - iPhone 16 Pro - 2025-11-18 at 10 48 43" src="https://github.com/user-attachments/assets/7f68d97f-f845-470b-82e9-99589db730f4" />
 
 ## Features
 
